@@ -52,8 +52,3 @@ Introduce AI-based product recommendations.
 
 Enhance security with OAuth authentication.
 
-![image1](../images/Screenshot%202025-03-23%20005705.png)
-![image2](../images/Screenshot%202025-03-23%20005715.png)
-![image3](../images/Screenshot%202025-03-23%20005725.png)
-![image4](../images/Screenshot%202025-03-23%20005735.png)
-![image5](../images/Screenshot%202025-03-23%20005743.png)
